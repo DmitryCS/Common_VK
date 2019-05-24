@@ -1,5 +1,5 @@
 # Common_VK
-Приложение по поиску общих друзей и групп двух пользователей Вконтакте. Кроме того присутствует история запросов(локальное хранение данных).<br>
+Приложение по поиску общих друзей и групп двух пользователей Вконтакте. Кроме того присутствует история запросов(локальное хранение данных). При нажатии на иконку происходит переход на страницу пользователя.<br>
 <!--![image](https://user-images.githubusercontent.com/46371199/58341705-46246680-7e68-11e9-86f7-d68223375f68.png) <br>-->
 Главная --------------------- Общие друзья ------------- Общие группы ------------- История запросов<br>
 <img src="https://user-images.githubusercontent.com/46371199/58341705-46246680-7e68-11e9-86f7-d68223375f68.png" alt="alt text" width="158" height="337"> ----- <img src="https://user-images.githubusercontent.com/46371199/58342530-137b6d80-7e6a-11e9-85b5-db68d4d85846.png" alt="alt text" width="158" height="337"> ----- <img src="https://user-images.githubusercontent.com/46371199/58342621-4f163780-7e6a-11e9-99c3-d9b24f5f71de.png" alt="alt text" width="158" height="337"> ----- <img src="https://user-images.githubusercontent.com/46371199/58342695-8b499800-7e6a-11e9-9345-6352d01422fb.png" alt="alt text" width="158" height="337"> 
